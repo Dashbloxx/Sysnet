@@ -1,0 +1,3 @@
+msg_179.c(8): error: cannot initialize struct/union with no named member [179]
+msg_179.c(15): error: cannot initialize struct/union with no named member [179]
+msg_179.c(22): error: cannot initialize struct/union with no named member [179]

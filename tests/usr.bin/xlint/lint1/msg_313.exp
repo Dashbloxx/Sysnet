@@ -1,0 +1,2 @@
+msg_313.c(12): warning: struct or union member name in initializer is a C99 feature [313]
+msg_313.c(14): warning: struct or union member name in initializer is a C99 feature [313]
